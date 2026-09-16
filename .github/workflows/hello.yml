@@ -20,4 +20,3 @@ jobs:
         run: ls -la
       - name: Count lines in the README
         run: wc -l README.md
-        wc -l does-not-exist.txt
