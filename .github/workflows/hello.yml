@@ -1,4 +1,1 @@
-echo "This is a README file." >> README.md
-git add README.md
-# الأمر السحري لإلغاء الـ add وتصحيح الخطأ:
-git restore --staged README.md
+git checkout -b feature/app
